@@ -1,6 +1,6 @@
 class Solution {
     public int solution(String s) {
-        int answer = 0, sLen = s.length();
+        int sLen = s.length();
         // System.out.format("sLen : %d\n",sLen);
         // s의 길이 제한
         if(sLen >= 1 && sLen <= 50) {

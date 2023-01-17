@@ -1,10 +1,10 @@
 # [level 1] 숫자 문자열과 영단어 - 81301 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java) 
 
 ### 성능 요약
 
-메모리: 78.5 MB, 시간: 0.05 ms
+메모리: 74.1 MB, 시간: 0.05 ms
 
 ### 구분
 
